@@ -52,4 +52,4 @@ The packet-rate feature helps detect flooding attacks like **DDoS** more accurat
 
 ---
 
-## ⚙️ System Architecture
+
